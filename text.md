@@ -10,12 +10,15 @@ And visualize it with a picture
 ![gitpod logo](https://www.gitpod.io/ca600993865f6692caf8206ddfbe8adb.png)
 
 ---
-| Tables    | can also be nice
-| ----------
+| Tables    | can also be nice |
+| oiu       | lkj              |
 
+ But sometime they just don't work :/
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+ This is a test to commit
+
+why **?**
+
+>I am adding lots of stuff but why can't I see it?
+
+>>mh
